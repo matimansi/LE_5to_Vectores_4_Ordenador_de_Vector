@@ -1,10 +1,4 @@
 
-/*
-    Realizar un programa al que se le ingresen 10 valores y los ordene de mayor a menor. +
-
-	>>> TERMINADO <<<
-*/
-
 #include <stdio.h>
 #define LIM 10
 
